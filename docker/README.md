@@ -5,7 +5,7 @@
 - [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - [Control Docker with systemd](https://docs.docker.com/config/daemon/systemd/)
 
-## Frequently used command
+## Frequently use command
 
 - [Docker](./docker.md)
 - [Docker Compose](./docker-compose.md)
