@@ -1,5 +1,8 @@
 # [Docker Compose](https://docs.docker.com/compose/)
 
+- [Overview of docker compose CLI](https://docs.docker.com/compose/reference/)
+- [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/#using-the---env-file--option)
+
 ## [docker compose up](https://docs.docker.com/engine/reference/commandline/compose_up/)
 
 Build environment from `docker-compose.yaml` and start service.
