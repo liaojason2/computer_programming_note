@@ -7,3 +7,7 @@
   ](https://www.cloudbooklet.com/how-to-set-list-and-remove-environment-variables-in-linux/#:~:text=Delete%20Environment%20Variables&text=You%20need%20to%20just%20use,variable%20name%20to%20delete%20it.&text=This%20command%20will%20remove%20the%20variable%20permanently.)
 - [Using the systemctl command to manage systemd units](https://opensource.com/article/20/5/systemd-units)
 - [Using the systemctl command to manage systemd units](https://medium.com/@marcelpociot/protect-your-env-files-387b4f66d809)
+
+## grep
+
+- [How to find all files containing specific text (string) on Linux?](https://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-string-on-linux)
