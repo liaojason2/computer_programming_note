@@ -1,5 +1,9 @@
 # Git
 
+## Change commit message
+
+- [【狀況題】修改 Commit 紀錄](https://gitbook.tw/chapters/using-git/amend-commit1)
+
 ## Submodule
 
 [Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
