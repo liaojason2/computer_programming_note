@@ -1,35 +1,58 @@
 # JavaScript
 
-## Arrow Function
+## Basic syntax
 
-- [Syntax for an async arrow function](https://stackoverflow.com/questions/42964102/syntax-for-an-async-arrow-function)
+### String
 
-## [Template String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+#### Capital letter
+
+- [JavaScript: Capitalize the first letter](https://flexiple.com/javascript/javascript-capitalize-first-letter/)
+
+#### [Template String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 - [How to remove extra space in template literals?](https://stackoverflow.com/questions/70253343/how-to-remove-extra-space-in-template-literals)
-
 - [JavaScript Multiline String – How to Create Multi Line Strings in JS](https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/#multiline)
 
-## Array
+### Array
 
-### [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+#### [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 - [JS map return object](https://stackoverflow.com/questions/47841899/js-map-return-object)
 - [Array.prototype.filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
-## Capital letter
+### Function
 
-- [JavaScript: Capitalize the first letter](https://flexiple.com/javascript/javascript-capitalize-first-letter/)
+#### Arrow Function
 
-## JSON
+- [Syntax for an async arrow function](https://stackoverflow.com/questions/42964102/syntax-for-an-async-arrow-function)
 
+#### Return Value
+
+- [Returning Multiple Values from a Function](https://www.javascripttutorial.net/javascript-return-multiple-values/)
+
+### Object
+
+- [JavaScript set object key by variable](https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable)
+- [How to get all key in JSON object (javascript)](https://stackoverflow.com/questions/26901971/how-to-get-all-key-in-json-object-javascript)
+
+#### JSON
+
+- [How to create JSON string in JavaScript?](https://stackoverflow.com/questions/8963693/how-to-create-json-string-in-javascript)
 - [JSON Stringify Example – How to Parse a JSON Object with JS](https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/)
+
+##### import JSON
+
+- [How to Import JSON file as a Module](https://blog.bitsrc.io/how-to-import-json-file-as-a-module-e4965295a7b3)
+- [How to import a JSON file in ECMAScript 6?](https://stackoverflow.com/questions/34944099/how-to-import-a-json-file-in-ecmascript-6)
 - [Reading and Writing JSON Files with Node.js](https://stackabuse.com/reading-and-writing-json-files-with-node-js/)
+
+### if else statement
+
+- [https://www.geeksforgeeks.org/nested-switch-case/](https://www.geeksforgeeks.org/nested-switch-case/)
 
 ## HTTP Operation
 
 - [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-
 - [AXIOS Minimal Example](https://axios-http.com/docs/example)
 - [JavaScript 基本功修練：Day29 - axios 基本語法與練習(GET、POST 請求)](https://ithelp.ithome.com.tw/articles/10253259)
 - [How to return response of axios in return](https://stackoverflow.com/questions/45620694/how-to-return-response-of-axios-in-return)
@@ -67,3 +90,23 @@
 
 - [How to Base64 Encode/Decode a Value in Node.js](https://futurestud.io/tutorials/how-to-base64-encode-decode-a-value-in-node-js)
 
+## File Operation
+
+- [Day8 - Node.js 檔案系統](https://ithelp.ithome.com.tw/articles/10185422)
+- [Fix "__dirname is not defined in ES module scope" in JS](https://bobbyhadz.com/blog/javascript-dirname-is-not-defined-in-es-module-scope)
+
+### Read file
+
+- [node js fetch local file](https://juejin.cn/s/node%20js%20fetch%20local%20file)
+
+### Read directory
+
+- [Node.js fs.readdirSync()用法及代碼示例](https://vimsky.com/zh-tw/examples/usage/node-js-fs-readdirsync-method.html)
+
+### Check exist file
+
+- [How to check if a file exists in Node.js](https://flaviocopes.com/how-to-check-if-file-exists-node/)
+
+## Error handling
+
+- [Node.js Error Handling Best Practices: Ship With Confidence](https://stackify.com/node-js-error-handling/)
