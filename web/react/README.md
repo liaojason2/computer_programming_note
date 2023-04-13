@@ -28,3 +28,7 @@
 
 - [Introducing to Hook](https://reactjs.org/docs/hooks-intro.html)
 - [Hook API Reference](https://reactjs.org/docs/hooks-reference.html)
+
+## Other
+
+- [How to use setInterval() method inside React class components](https://sebhastian.com/setinterval-react-class/)
