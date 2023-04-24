@@ -12,6 +12,7 @@
 
 - [How to remove extra space in template literals?](https://stackoverflow.com/questions/70253343/how-to-remove-extra-space-in-template-literals)
 - [JavaScript Multiline String – How to Create Multi Line Strings in JS](https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/#multiline)
+- [JavaScript: Split a multiline string into an array of lines](https://www.w3resource.com/javascript-exercises/fundamental/javascript-fundamental-exercise-139.php)
 
 ### Array
 
@@ -102,6 +103,7 @@
 ### Read directory
 
 - [Node.js fs.readdirSync()用法及代碼示例](https://vimsky.com/zh-tw/examples/usage/node-js-fs-readdirsync-method.html)
+- [Getting file name with second largest number in it when the numbers are same](https://stackoverflow.com/questions/60048895/getting-file-name-with-second-largest-number-in-it-when-the-numbers-are-same)
 
 ### Check exist file
 
