@@ -13,6 +13,6 @@ if message.endswith(".jpg")
 
 ## Other
 
-- [virtualenv](virtualenv.md)
+- [Python Package](python-package.md)
 - [System information check](check-system-imformation.md)
 - [IO operation](io-operation.md)
