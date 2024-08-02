@@ -4,6 +4,8 @@
 
 ### `string`
 
+- [How to Remove tags using BeautifulSoup in Python?](https://www.geeksforgeeks.org/how-to-remove-tags-using-beautifulsoup-in-python/)
+
 ```python
 # endswith
 
