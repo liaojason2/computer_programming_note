@@ -4,6 +4,8 @@
 
 ### String
 
+- [Display only 10 characters of a long string?](https://stackoverflow.com/questions/3414916/display-only-10-characters-of-a-long-string)
+
 #### Capital letter
 
 - [JavaScript: Capitalize the first letter](https://flexiple.com/javascript/javascript-capitalize-first-letter/)
@@ -35,6 +37,8 @@
 
 - [JavaScript set object key by variable](https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable)
 - [How to get all key in JSON object (javascript)](https://stackoverflow.com/questions/26901971/how-to-get-all-key-in-json-object-javascript)
+- [How can I get the full object in Node.js's console.log(), rather than '[Object]'?](https://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object)
+- [console.log(result) prints [object Object]. How do I get result.name?](https://stackoverflow.com/questions/41336663/console-logresult-prints-object-object-how-do-i-get-result-name)
 
 #### JSON
 
@@ -58,6 +62,7 @@
 - [JavaScript 基本功修練：Day29 - axios 基本語法與練習(GET、POST 請求)](https://ithelp.ithome.com.tw/articles/10253259)
 - [How to return response of axios in return](https://stackoverflow.com/questions/45620694/how-to-return-response-of-axios-in-return)
 - [Reading and Writing JSON Files with Node.js](https://stackabuse.com/reading-and-writing-json-files-with-node-js/)
+- [How to download an image with node-fetch](https://benborgers.com/posts/node-fetch-download-image)
 
 ## crypto
 
@@ -90,6 +95,11 @@
 ## base64
 
 - [How to Base64 Encode/Decode a Value in Node.js](https://futurestud.io/tutorials/how-to-base64-encode-decode-a-value-in-node-js)
+
+## Date
+
+- [How to add months to a date in JavaScript? [duplicate]](https://stackoverflow.com/questions/5645058/how-to-add-months-to-a-date-in-javascript)
+- [How to convert date to timestamp?](https://stackoverflow.com/questions/9873197/how-to-convert-date-to-timestamp)
 
 ## File Operation
 
