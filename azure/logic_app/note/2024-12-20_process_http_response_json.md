@@ -2,7 +2,7 @@
 
 ## Goal
 
-Using Azure Logic App data operation to process HTTP Response from GPT Module.
+Using Azure Logic App data operations to process HTTP Response from GPT Module.
 
 ## Data
 
@@ -44,9 +44,9 @@ Using Azure Logic App data operation to process HTTP Response from GPT Module.
 
 ## Details
 
-### Extract `choice` element
+### Parse GPT Response JSON  
 
-Operation: Compose
+Operation: Parse JSON
 
 #### Parse the JSON
 
@@ -91,7 +91,9 @@ Operation: Compose
 }
 ```
 
-### Compose Action to Extract the First choice
+### Extract the ```choice```
+
+Operation: Compose
 
 - Add a Compose action after the Parse JSON step.  
 - In the Inputs field of the Compose action, use the following expression:
@@ -179,7 +181,7 @@ replace(replace(outputs('Pick_`Message`_from_`Choice`'), '```json\n', ''), '```'
 
 Operation: Parse JSON  
 
-- Put previous output into Parse JSON Block for further Data Process
+- Put previous output into Parse JSON input block for further data process
 
 ```json
 {
@@ -235,6 +237,10 @@ Operation: Parse JSON
         }
     }
 }
+```
 
 ## Reference
+
+- [ChatGPT Dialog by @liaojason2](https://chatgpt.com/share/676534c8-97b4-8008-ad3b-7f8ee62db8b0)
+
 
