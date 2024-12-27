@@ -1,3 +1,4 @@
 # Logic App
 
-- [Perform data operations in Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-perform-data-operations?tabs=consumption#parse-json-action)
+- [Data Operation](./data_operation/Data)
+- [how to pass a uri parameter in function app from logic app](https://stackoverflow.com/questions/78476790/how-to-pass-a-uri-parameter-in-function-app-from-logic-app)
