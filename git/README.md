@@ -1,8 +1,37 @@
 # Git
 
-## Change commit message
+## Commit 
+
+### Change commit message
+
+```shell
+git commit --amend
+```
 
 - [【狀況題】修改 Commit 紀錄](https://gitbook.tw/chapters/using-git/amend-commit1)
+
+## Branch
+
+```shell
+# Change branch name
+git branch -m <old-name> <new-name>
+```
+
+## Stash
+
+```shell
+
+# Stash all modified files
+git stash
+
+# Stash single file
+git stash -- <filename>
+
+# Release stash file
+git stash pop
+```
+
+- [Stash just a single file](https://stackoverflow.com/questions/12420924/stash-just-a-single-file)
 
 ## Submodule
 
