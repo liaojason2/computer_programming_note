@@ -1,5 +1,7 @@
 # Telegram Bot
 
+- [使用Python寫一個Telegram Notify](https://lofinancier.medium.com/%E4%BD%BF%E7%94%A8python%E5%AF%AB%E4%B8%80%E5%80%8Btelegram-notify-8826fc99d842)
+
 ## Get Chat ID
 
 ```python
