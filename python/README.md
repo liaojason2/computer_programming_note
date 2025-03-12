@@ -4,8 +4,6 @@
 
 ### `string`
 
-- [How to Remove tags using BeautifulSoup in Python?](https://www.geeksforgeeks.org/how-to-remove-tags-using-beautifulsoup-in-python/)
-
 ```python
 # endswith
 
@@ -13,9 +11,27 @@ message = "001.jpg"
 if message.endswith(".jpg")
 ```
 
-### Dictionary
+- [How to Remove tags using BeautifulSoup in Python?](https://www.geeksforgeeks.org/how-to-remove-tags-using-beautifulsoup-in-python/)
+
+### docstring
+
+```python
+# PEP 257
+def hello(args)
+  '''
+  Function return hello and user given arguments 
+  '''
+  return "hello" + args
+```
+
+- [What is the proper way to comment functions in Python?](https://stackoverflow.com/questions/2357230/what-is-the-proper-way-to-comment-functions-in-python)
+- [PEP 257](https://peps.python.org/pep-0257/)
+
+### `dictionary`
 
 - [How to convert a dictionary to query string in Python?](https://stackoverflow.com/questions/7801991/how-to-convert-a-dictionary-to-query-string-in-python)
+
+
 
 ## Other
 
