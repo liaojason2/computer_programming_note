@@ -1,7 +1,6 @@
 # CSS
 
 [pointer-events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)
-[Make flexbox sidebar div width increase/decrease via drag](https://stackoverflow.com/questions/50372255/make-flexbox-sidebar-div-width-increase-decrease-via-drag)
 - [Styling Components in React](https://www.pluralsight.com/guides/inline-styling-with-react)
 
 ## textarea
@@ -28,3 +27,4 @@
 ## Flex
 
 - [flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+- [Make flexbox sidebar div width increase/decrease via drag](https://stackoverflow.com/questions/50372255/make-flexbox-sidebar-div-width-increase-decrease-via-drag)
