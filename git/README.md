@@ -43,6 +43,12 @@ git stash pop
 
 [git revert 指令簡介](https://ithelp.ithome.com.tw/articles/10187836)
 
+## git reset
+
+```shell
+git reset --hard <commit_id>
+```
+
 ## git add
 
 - [Commit only part of a file's changes in Git](https://stackoverflow.com/questions/1085162/commit-only-part-of-a-files-changes-in-git)
